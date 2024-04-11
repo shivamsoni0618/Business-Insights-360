@@ -10,11 +10,17 @@ From detailed profit and loss statements to customer and product performance ana
 
 Throughout this project, I've utilized advanced Power BI functionalities such as:
 ➡️ Created DAX measures to find important info in data.
+
 ➡️ Used KPI indicators to quickly see if things are good or bad
+
 ➡️ Made titles that change depending on what you're looking at
+
 ➡️ Added buttons to make it easy to move around in the report
+
 ➡️ Excelled in sculpting data models 
+
 ➡️ Incorporating bookmarks for seamless visual transitions
+
 ➡️ Made the visuals stand out by coloring them based on what they showed.
 
 Each of these skills helped me build a powerful Power BI project that makes it easier to understand data and make decisions.
